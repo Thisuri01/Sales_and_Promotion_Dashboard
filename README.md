@@ -7,20 +7,18 @@ The dashboard offers a deep dive into Nova Retail’s business performance, enab
 ## Objectives
 
 - Analyze business performance from multiple perspectives. 
-
 - Answer meaningful business questions using visuals and DAX. 
-
 - Tell a story using Power BI to support data-driven decisions. 
 
 ## Key Features
 
 - Advanced DAX calculations for KPI tracking and growth metrics.
-
 - Interactive filters for region, time, and product categories.
-
 - Drill-through functionality for detailed transaction-level insights.
-
 - Clean, intuitive Power BI design focused on storytelling and decision support.
 
+## Recommendations
 
+- Rebalance Promotions & Discounts.
+- Diversify Product Portfolio
 
