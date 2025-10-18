@@ -1,4 +1,4 @@
-# Sales_and_Promotion_Dashboard - A Case Study on Nova Retail
+# Sales and Promotion Dashboard - A Case Study on Nova Retail
 
 ## Project Overview
 
