@@ -1,2 +1,14 @@
-# Sales_and_Promotion_Dashboard
-This project presents a multi-page Power BI dashboard designed for Nova Retail, a rapidly expanding retail company operating across multiple regions, product lines, and customer segments. The goal was to transform static reports into a dynamic, interactive analytics solution that drives data-informed decision-making at all organizational levels.
+# Sales_and_Promotion_Dashboard - A Case Study on Nova Retail
+
+## Project Overview
+
+The dashboard offers a deep dive into Nova Retail’s business performance, enabling users to explore sales, profitability, and customer trends from multiple perspectives. It leverages DAX measures, interactive visuals, and drill-through analysis to uncover insights that are not immediately visible in raw data.
+
+## Objectives
+
+● Analyze business performance from multiple perspectives. 
+● Answer meaningful business questions using visuals and DAX. 
+● Tell a story using Power BI to support data-driven decisions. 
+
+
+
